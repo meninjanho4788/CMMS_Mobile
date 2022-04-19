@@ -1,0 +1,165 @@
+{
+  "homescreen": {
+    "menu": {
+      "appname": "CMMS",
+      "version": "Version :",
+      "makeby": "Powered by Thuận Nhật",
+      "newrepairrequest": "Sign out",
+      "listrepairrequest": "Request order",
+      "calendar": "Calendar",
+      "mymaintenance": "Maintenance work order",
+      "equipmenthistory": "Equipment tracking",
+      "settings": "Settings",
+      "done": "Done",
+      "avatar": "Change avatar image",
+      "signout": "Sign out",
+      "removeotp": "Remove OTP",
+      "inputpassword": "Input password",
+      "remove": "Remove"
+    },
+    "logout": {
+      "title": "Log out user",
+      "question": "Do you want to logout?",
+      "cancel": "Cancel",
+      "logout": "Logout"
+    }
+  },
+  "newrequestscreen": {
+    "main": {
+      "title": "New request order",
+      "qrcode": "QR code :",
+      "equipmentcode": "Equipment code :",
+      "equipmentname": "Equipment name :",
+      "equipmentlocation": "Location :",
+      "priority": "Priority :",
+      "description": "Description :",
+      "picture": "Picture :",
+      "stopdevice": "Stop device",
+      "btnsave": "SAVE"
+    }
+  },
+  "repairrequestscreen": {
+    "main": {
+      "title1": "Repair request list",
+      "search1": "Search repair request",
+      "title2": "Repair request detail",
+      "equipmentcode": "Equipment code :",
+      "equipmentname": "Equipment name :",
+      "equipmentlocation": "Location :",
+      "priority": "Priority :",
+      "description": "Description :",
+      "rootcase": "Root case :",
+      "solution": "Solution :",
+      "before": "Before :",
+      "after": "After :",
+      "remark": "Remark :",
+      "status": "Status :",
+      "assignee": "Assignee :",
+      "assigneechoose": "Choose assignee",
+      "assigneefilter": "Input key filter",
+      "btnsave": "SAVE",
+      "postingdate": "Posting date :"
+    }
+  },
+  "calendarscreen": {
+    "main": {
+      "title": "Calendar",
+      "listequipment": "List equipment :",
+      "finishdate": "Finish date :"
+    }
+  },
+  "maintenancescreen": {
+    "main": {
+      "title1": "Maintenance request list",
+      "priority": "Priority :",
+      "duedate": "Due date :",
+      "status": "Status :",
+      "listequipment": "List equipment :",
+      "listofwork": "List of works :",
+      "picture": "Picture :",
+      "description": "Description :",
+      "status2": "Status :",
+      "btnsave": "SAVE"
+    }
+  },
+  "equipmenthistoryscreen": {
+    "main": {
+      "title1": "Equipment history",
+      "qrcode":"QR code :",
+      "title2": "'s history",
+      "equipmentcode": "Equipment code :",
+      "equipmentname": "Equipment name :",
+      "equipmentlocation": "Location :",
+      "power": "Power :",
+      "picture":"Picture :",
+      "mainequipment": "Main equipment :",
+      "isactive": "Is active :",
+      "spec": "Specification :",
+      "note": "Note :",
+      "failtrack": "Failure tracking",
+      "maintrack": "Maintenance tracking",
+      "replace": "Replacement of items"
+    }
+  },
+  "settingsscreen": {
+    "main": {
+      "title": "Settings",
+      "language": "Language :",
+      "version": "Version :",
+      "removeOTP": "Remove OTP",
+      "logout": "Logout",
+      "username": "Username",
+      "password": "Password",
+      "login": "LOGIN",
+      "ghinho": "Remember me",
+      "titledeleteimage":"Delete image.",
+      "questiondeleteimage":"Are you sure delete current image ?",
+      "cancel": "Cancel",
+      "delete": "Delete"
+    },
+    "outotp": {
+      "title": "Remove OTP",
+      "question": "Do you want to remove OTP ?",
+      "cancel": "Cancel",
+      "logout": "OK"
+    }
+  },
+  "combostring": {
+    "status": {
+      "open": "Open",
+      "onhold": "On hold",
+      "inprogress": "In progress",
+      "complete": "Complete"
+    },
+    "priority":{
+      "low": "Low",
+      "medium": "Medium",
+      "high": "Urgency"
+    },
+    "danhgia":{
+      "good": "Good",
+      "notgood": "Not good"
+    }
+  },
+  "errormessage":{
+    "thietbi": " Equipment ",
+    "chuachon": "Not yet choose ",
+    "cantsave": ", cant Save !",
+    "notempty": " cant be empty",
+    "insertsuccess": " Successful ",
+    "insertfail": " Fail ",
+    "kotimthay": " Cant found ",
+    "nomaintenaceequipment": "No have maintenance equipment",
+    "listempty": "The list is empty !",
+    "permissionchooseassignee": "You no have permission choose assignee !",
+    "notyetchoosekeyperson": "Not yet choose key person",
+    "isrequired": " is required !",
+    "noplan":"This equipment no have plan maintenance.",
+    "cantfindequip": "Can't find this equipment QR code in WO"
+  },
+  "color":{
+    "low": "#848484",
+    "medium": "#E18512",
+    "urgency": "#FF0000"
+  }
+}

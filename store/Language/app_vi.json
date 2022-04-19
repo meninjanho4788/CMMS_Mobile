@@ -1,0 +1,165 @@
+{
+  "homescreen": {
+    "menu": {
+      "appname": "Phần Mềm Quản Lý Bảo Trì Thiết Bị",
+      "version": "Phiên bản :",
+      "makeby": "Được phát triển bởi Thuận Nhật",
+      "newrepairrequest": "Đăng xuất",
+      "listrepairrequest": "Yêu cầu sửa chữa thiết bị",
+      "calendar": "Kế hoạch bảo trì",
+      "mymaintenance": "Bảo trì thiết bị",
+      "equipmenthistory": "Tra cứu thông tin thiết bị",
+      "settings": "Cấu hình",
+      "done": "Xong",
+      "avatar": "Đổi ảnh đại diện",
+      "signout": "Đăng xuất",
+      "removeotp": "Xoá OTP",
+      "inputpassword": "Nhập mật khẩu",
+      "remove": "Xoá"
+    },
+    "logout": {
+      "title": "Thoát đăng nhập",
+      "question": "Bạn có muốn thoát người dùng này?",
+      "cancel": "Không",
+      "logout": "Có"
+    }
+  },
+  "newrequestscreen": {
+    "main": {
+      "title": "Báo lỗi thiết bị",
+      "qrcode": "Mã QR :",
+      "equipmentcode": "Mã thiết bị :",
+      "equipmentname": "Tên thiết bị :",
+      "equipmentlocation": "Vị trí thiết bị :",
+      "priority": "Ưu tiên :",
+      "description": "Mô tả :",
+      "picture": "Hình ảnh :",
+      "stopdevice": "Dừng thiết bị",
+      "btnsave": "LƯU"
+    }
+  },
+  "repairrequestscreen": {
+    "main": {
+      "title1": "Danh sách yêu cầu sửa chữa",
+      "search1": "Tìm kiếm",
+      "title2": "Phiếu yêu cầu sửa chữa",
+      "equipmentcode": "Mã thiết bị :",
+      "equipmentname": "Tên thiết bị :",
+      "equipmentlocation": "Vị trí thiết bị :",
+      "priority": "Ưu tiên :",
+      "description": "Mô tả :",
+      "rootcase": "Nguyên nhân :",
+      "solution": "Giải pháp :",
+      "before": "Trước :",
+      "after": "Sau :",
+      "remark": "Đánh giá :",
+      "status": "Trạng thái phiếu :",
+      "assignee": "Người sửa chữa :",
+      "assigneechoose": "Chọn người sửa chữa",
+      "assigneefilter": "Nhập tìm kiếm và chọn",
+      "btnsave": "LƯU",
+      "postingdate": "Ngày :"
+    }
+  },
+  "calendarscreen": {
+    "main": {
+      "title": "Lịch bảo trì",
+      "listequipment": "Danh sách thiết bị :",
+      "finishdate": "Ngày hoàn thành :"
+    }
+  },
+  "maintenancescreen": {
+    "main": {
+      "title1": "Danh sách phiếu bảo trì",
+      "priority": "Ưu tiên :",
+      "duedate": "Ngày hết hạn :",
+      "status": "Trạng thái phiếu :",
+      "listequipment": "Danh sách thiết bị :",
+      "listofwork": "Danh sách công việc :",
+      "picture": "Hình ảnh :",
+      "description": "Ghi chú :",
+      "status2": "Trạng thái phiếu :",
+      "btnsave": "LƯU"
+    }
+  },
+  "equipmenthistoryscreen": {
+    "main": {
+      "title1": "Thông tin thiết bị",
+      "qrcode":"Mã QR :",
+      "title2": "",
+      "equipmentcode": "Mã thiết bị :",
+      "equipmentname": "Tên thiết bị :",
+      "equipmentlocation": "Vị trí thiết bị :",
+      "power": "Công xuất máy :",
+      "picture":"Hình ảnh :",
+      "mainequipment": "Là thiết bị Chính :",
+      "isactive": "Hoạt động :",
+      "spec": "Quy cách :",
+      "note": "Ghi chú :",
+      "failtrack": "Phiếu sửa chữa",
+      "maintrack": "Phiếu bảo trì",
+      "replace": "Vật tư đã thay thế"
+    }
+  },
+  "settingsscreen": {
+    "main": {
+      "title": "Cấu hình",
+      "language": "Ngôn ngữ :",
+      "version": "Phiên bản :",
+      "removeOTP": "Xoá OTP",
+      "logout": "Đăng Xuất",
+      "username": "Tên đăng nhập",
+      "password": "Mật khẩu",
+      "login": "ĐĂNG NHẬP",
+      "ghinho": "Ghi nhớ mật khẩu",
+      "titledeleteimage":"Xoá hình ảnh.",
+      "questiondeleteimage":"Bạn có chắc muốn xoá hình ảnh hiện tại không ?",
+      "cancel": "Không",
+      "delete": "Có"
+    },
+    "outotp": {
+      "title": "Xoá OTP",
+      "question": "Bạn có chắc là muốn xoá OTP ?",
+      "cancel": "Không",
+      "logout": "Có"
+    }
+  },
+  "combostring": {
+    "status": {
+      "open": "Open",
+      "onhold": "On hold",
+      "inprogress": "In progress",
+      "complete": "Complete"
+    },
+    "priority":{
+      "low": "Low",
+      "medium": "Medium",
+      "high": "Urgency"
+    },
+    "danhgia":{
+      "good": "Good",
+      "notgood": "Not good"
+    }
+  },
+  "errormessage":{
+    "thietbi": " Thiết bị ",
+    "chuachon": "Bạn chưa chọn ",
+    "cantsave": ", không thể Lưu !",
+    "notempty": " không được để trống",
+    "insertsuccess": " Thành công ",
+    "insertfail": " Thất bại ",
+    "kotimthay": " không tìm thấy ",
+    "nomaintenaceequipment": "Không có thiết bị cần bảo trì",
+    "listempty": "Danh sách trống !",
+    "permissionchooseassignee": "Bạn không có quyền chọn ",
+    "notyetchoosekeyperson": "Bạn chưa chọn key person",
+    "isrequired": " bắt buộc chọn !",
+    "noplan":"Thiết bị này không có kế hoạch bảo trì !",
+    "cantfindequip": "Không tìm thấy mã QR thiết bị này trong WO"
+  },
+  "color":{
+    "low": "#848484",
+    "medium": "#E18512",
+    "urgency": "#FF0000"
+  }
+}

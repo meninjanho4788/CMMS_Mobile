@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "425016880683",
+    "project_id": "cmms-6e643",
+    "storage_bucket": "cmms-6e643.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425016880683:android:feeaf9c82049bed26c846e",
+        "android_client_info": {
+          "package_name": "com.solutionias.cmms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425016880683-q33nmju2ifofu32vfhb7rv3fbvgd1n3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr9ERgfyJWdrOz4vZqcaLg8YEtvgiVAY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425016880683-q33nmju2ifofu32vfhb7rv3fbvgd1n3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
